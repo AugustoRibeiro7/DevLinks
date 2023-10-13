@@ -4,7 +4,7 @@
     <img src="./git/capa.png" width="100%">
 </p>
 
-## Tecnologias
+## Tecnologias 
 
 Ess projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -12,6 +12,6 @@ Ess projeto foi desenvolvido com as seguintes tecnologias:
 -JavaScript<br>
 -GitHub e Github Desktop
 
-## Projeto
+## Projeto ☻
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
