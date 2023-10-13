@@ -6,7 +6,7 @@
 
 ## Tecnologias 
 
-Ess projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -HTML e CSS <br>
 -JavaScript<br>
